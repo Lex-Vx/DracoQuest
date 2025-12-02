@@ -15,12 +15,5 @@ I drew the tiles on my phone using an app called Pixelart, and I created the map
 I have every intent of filling this entire world with content, and will gradually be updating this as it progresses.
 
 The world map is a 6x6 grid of "Zones"
-00, 01, 02, 03, 04, 05
-06, 07, 08, 09, 10, 11
-12, 13, 14, 15, 16, 17
-18, 19, 20, 21, 22, 23
-24, 25, 26, 27, 28, 29
-30, 31, 32, 33, 34, 35
-
 Each of these zones is composed of a similar but smaller grid, 5x5 areas.
 Each of those Areas is then composed of a 25x25 tile "area map", which is what is visible to the player in worldspace within the viewport.
