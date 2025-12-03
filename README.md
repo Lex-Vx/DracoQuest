@@ -11,9 +11,9 @@ LovyanGFX v1.2.7
 
 Everything *should* work with up to date libraries, please let me know if you have issues or questions.
 
-I drew the tiles on my phone using an app called Pixelart, and I created the map files with the map editor 'Tiled'.
+I drew the tiles on my phone using an app called 'Pixilart', and I created the map files with the map editor 'Tiled'.
 I have every intent of filling this entire world with content, and will gradually be updating this as it progresses.
 
 The world map is a 6x6 grid of "Zones"
-Each of these zones is composed of a similar but smaller grid, 5x5 areas.
+Each of these zones is composed of a similar but smaller grid, 5x5 Areas.
 Each of those Areas is then composed of a 25x25 tile "area map", which is what is visible to the player in worldspace within the viewport.
